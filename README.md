@@ -9,6 +9,7 @@ This was a cross-disciplinary project covering 3D animation, deep learning, comp
 
 ## Videos
 Follow [this link](https://drive.google.com/drive/folders/1fxyfG2KJZksDpBAxe8l9u_PKlUjSoW0b) to find a number of videos showing the animations in action. There is a README in this folder further explaining the contents of each video. For a highlight reel, see `0_full_demo.mp4`.
+
 **UPDATE SEPT 2024:** This link is dead, apologies. I am currently searching for my backup copies of these videos, and will re-upload if I can find them.
 
 ## Further Reading
