@@ -10,7 +10,7 @@ This was a cross-disciplinary project covering 3D animation, deep learning, comp
 ## Videos
 Follow [this link](https://drive.google.com/drive/folders/1fxyfG2KJZksDpBAxe8l9u_PKlUjSoW0b) to find a number of videos showing the animations in action. There is a README in this folder further explaining the contents of each video. For a highlight reel, see `0_full_demo.mp4`.
 
-**UPDATE SEPT 2024:** This link is dead, apologies. I am currently searching for my backup copies of these videos, and will re-upload if I can find them.
+**UPDATE SEPT 2024:** This link is dead, apologies. I am currently searching for my backup copies of these videos and will re-upload if I can find them. There are some images in my dissertation, albeit woefully few. If you have access to Maya you should be able to run the scenes in `maya_scenes` and see the output animations for yourself.
 
 ## Further Reading
 For a more in-depth look at the work I completed, please see `Dissertation.pdf` in the root directory of this repo. In particular, the Executive Summary gives a high-level look at the work undertaken in this project.
